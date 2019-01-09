@@ -1,0 +1,24 @@
+{
+  "name": "niel_angular_learning.19",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSSirius/niel_Angular_Learning.19.git"
+  },
+  "author": "Earl NIE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSSirius/niel_Angular_Learning.19/issues"
+  },
+  "homepage": "https://github.com/SSSirius/niel_Angular_Learning.19#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
